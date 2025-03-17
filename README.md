@@ -28,7 +28,7 @@ npm install
 npm start
 ```
 
-## Test the API: You can test the API using Postman or Thunder Client by sending requests to the following endpoints:
+### Test the API: You can test the API using Postman or Thunder Client by sending requests to the following endpoints:
 
 - POST /items: Add a new item to the shopping list.
 - GET /items: Get all items in the list.
